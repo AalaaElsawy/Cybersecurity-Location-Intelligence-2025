@@ -1,1 +1,1 @@
-# Cybersecurity-Location-Intelligence-2025
+This project focuses on performing comprehensive Data Analysis and Predictive Modeling on a specialized dataset (Location Intelligence Cybersecurity 2025). The goal was to extract meaningful insights from environmental and geographic data to understand their impact on IoT security and cyber attack patterns.
